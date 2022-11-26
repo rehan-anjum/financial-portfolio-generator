@@ -26,4 +26,6 @@ Python program that consumes a list of tickers (minimum 25), and does data filte
 * yfinance
 * warnings
 
+[Link to Jupyter Notebook](./Automated%20Financial%20Portfolio%20Generator.ipynb)
+
 Authors: *Rehan Anjum, Rui Li, Anton Smetanov*
