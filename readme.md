@@ -26,3 +26,4 @@ Python program that consumes a list of tickers (minimum 25), and does data filte
 * yfinance
 * warnings
 
+Authors: *Rehan Anjum, Rui Li, Anton Smetanov*
