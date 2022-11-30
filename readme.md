@@ -4,7 +4,7 @@ Python program that consumes a list of tickers (minimum 25), and does data filte
 ## Achievements: ##
 * Increased performance times by **3x** by utilizing multithreading and parallelism
 * Developed efficient solution via use of maximum spanning tree algorithm to efficiently select stocks with high correlation and volatility
-* Optimized NP hard solutoin in polynomial computational complexity
+* Optimized NP hard solution in polynomial computational complexity
 * Created data cleaning pipeline that sanitizes input data
 * Accurately completed data analysis on portfolio and stock volatility
 
