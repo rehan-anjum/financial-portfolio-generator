@@ -27,5 +27,6 @@ Python program that consumes a list of tickers (minimum 25), and does data filte
 * warnings
 
 [Link to Jupyter Notebook](./Automated%20Financial%20Portfolio%20Generator.ipynb)
+[We placed first in the competition!](https://uwaterloo.ca/computing-financial-management/news/congratulations-winning-teams-second-annual-cfm-101-team)
 
 Authors: *Rehan Anjum, Rui Li, Anton Smetanov*
